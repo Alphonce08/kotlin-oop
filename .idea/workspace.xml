@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efaef866-243c-4e78-8ff3-7d5e24633221" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/OOP/Animal.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/DowhileChallenge.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/DowhileLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/ForLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/WhileLoop.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -34,14 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DowhileLoopKt">
-    <configuration name="DowhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DowhileLoopKt" />
-      <module name="kotlin_Alkid" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="HouseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.HouseKt" />
       <module name="kotlin_Alkid" />
@@ -51,7 +50,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DowhileLoopKt" />
         <item itemvalue="Kotlin.HouseKt" />
       </list>
     </recent_temporary>
