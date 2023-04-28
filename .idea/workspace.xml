@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efaef866-243c-4e78-8ff3-7d5e24633221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/OOP/Animal.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/DowhileChallenge.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/DowhileLoop.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/ForLoop.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/WhileLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/OOP/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Animal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/OOP/House.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/House.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/OOP/Vehicles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Vehicles.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +38,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.HouseKt">
     <configuration name="HouseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.HouseKt" />
+      <module name="kotlin_Alkid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehiclesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.VehiclesKt" />
       <module name="kotlin_Alkid" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,6 +56,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.HouseKt" />
+        <item itemvalue="Kotlin.VehiclesKt" />
       </list>
     </recent_temporary>
   </component>
